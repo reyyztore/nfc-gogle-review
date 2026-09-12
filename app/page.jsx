@@ -363,3 +363,4 @@ const styles = {
   th: { borderBottom: '2px solid #e5e7eb', padding: '8px', textAlign: 'left', backgroundColor: '#f9fafb' },
   td: { borderBottom: '1px solid #e5e7eb', padding: '8px' }
 };
+
